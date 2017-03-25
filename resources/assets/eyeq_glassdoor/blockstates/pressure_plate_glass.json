@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "eyeq_glassdoor:glass_pressure_plate_up" },
+        "powered=true": { "model": "eyeq_glassdoor:glass_pressure_plate_down" }
+    }
+}
